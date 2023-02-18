@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NextTest</string>
+    <string name="hello">Hello git</string>
 </resources>
